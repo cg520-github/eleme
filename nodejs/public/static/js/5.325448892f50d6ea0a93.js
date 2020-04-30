@@ -1,0 +1,2 @@
+webpackJsonp([5],{evCl:function(e,n,t){"use strict";Object.defineProperty(n,"__esModule",{value:!0});var r={name:"InfoShop",created:function(){console.log(this.$route.query.id)}},u={render:function(){var e=this.$createElement;return(this._self._c||e)("div")},staticRenderFns:[]};var i=t("VU/8")(r,u,!1,function(e){t("iYju")},null,null);n.default=i.exports},iYju:function(e,n){}});
+//# sourceMappingURL=5.325448892f50d6ea0a93.js.map

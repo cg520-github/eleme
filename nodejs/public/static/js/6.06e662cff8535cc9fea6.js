@@ -1,0 +1,2 @@
+webpackJsonp([6],{SC19:function(e,t,n){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var r={name:"Order",components:{BottomNav:n("cBse").a}},a={render:function(){var e=this.$createElement,t=this._self._c||e;return t("div",[this._v("\n\t订单\n\t"),t("BottomNav")],1)},staticRenderFns:[]};var c=n("VU/8")(r,a,!1,function(e){n("ax8c")},null,null);t.default=c.exports},ax8c:function(e,t){}});
+//# sourceMappingURL=6.06e662cff8535cc9fea6.js.map

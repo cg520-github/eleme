@@ -1,0 +1,2 @@
+webpackJsonp([8],{"fkz/":function(e,t){},jVo7:function(e,t,n){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var o={name:"PersonalCenter",components:{BottomNav:n("cBse").a}},r={render:function(){var e=this.$createElement,t=this._self._c||e;return t("div",[this._v("\n\t个人中心\n\t"),t("BottomNav")],1)},staticRenderFns:[]};var s=n("VU/8")(o,r,!1,function(e){n("fkz/")},null,null);t.default=s.exports}});
+//# sourceMappingURL=8.1892ed7c117224e8cdb1.js.map

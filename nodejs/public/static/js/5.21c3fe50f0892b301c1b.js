@@ -1,0 +1,2 @@
+webpackJsonp([5],{dmvE:function(e,n){},evCl:function(e,n,t){"use strict";Object.defineProperty(n,"__esModule",{value:!0});var r={name:"InfoShop",created:function(){console.log(this.$route.query.id)}},o={render:function(){var e=this.$createElement;return(this._self._c||e)("div")},staticRenderFns:[]};var u=t("VU/8")(r,o,!1,function(e){t("dmvE")},null,null);n.default=u.exports}});
+//# sourceMappingURL=5.21c3fe50f0892b301c1b.js.map

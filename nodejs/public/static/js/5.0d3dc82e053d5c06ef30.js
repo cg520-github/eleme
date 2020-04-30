@@ -1,0 +1,2 @@
+webpackJsonp([5],{XKR1:function(e,n){},evCl:function(e,n,t){"use strict";Object.defineProperty(n,"__esModule",{value:!0});var r={name:"InfoShop",created:function(){console.log(this.$route.query.id)}},o={render:function(){var e=this.$createElement;return(this._self._c||e)("div")},staticRenderFns:[]};var u=t("VU/8")(r,o,!1,function(e){t("XKR1")},null,null);n.default=u.exports}});
+//# sourceMappingURL=5.0d3dc82e053d5c06ef30.js.map
